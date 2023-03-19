@@ -20,3 +20,7 @@ on if it is successful or not.
 
 If a work order is already in the status of the status change request, then a validation message is
 returned.
+
+TODO:
+- Web API enpoint to accept JSON/XML requests for order actions
+- Authorisation servce for login and enhancments to the existing operator functionality
